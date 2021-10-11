@@ -35,7 +35,7 @@
 - 이미지  
   <img src="./img/브레인 멜트다운.PNG">
 - 동영상
-  [![](./img/brainmeltdown.jpg)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./img/brainmeltdown.jpg)](https://www.youtube.com/watch?v=6ab0db33oSE)
 
 <br><br>
 
