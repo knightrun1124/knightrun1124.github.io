@@ -107,7 +107,7 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./img/player.png" width="500">|
+|1|플레이어|<img src="./img/player.png" height = "300" width="500">|
 |2|장애물|<img src="./img/barrier.png" width="500">|
 |3|스테이지|<img src="./img/stage.png" height="300">|
 |4||<img src="./img/button.png" height="300">|
