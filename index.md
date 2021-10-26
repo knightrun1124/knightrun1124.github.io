@@ -237,4 +237,4 @@
 
 # 2.키보드흐름도
 -키보드흐름도
-  <img src="./img/keyevent.PNG">
+ <img src="./img/keyevent.png">
