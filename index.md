@@ -56,15 +56,16 @@
 # [관련 이미지 & 동영상] <a name='3'></a>
 
 - 이미지  
-  <img src="./img/바운스볼.jfif">
+  <img src="./img/대표이미지.jfif">
 - 동영상
-  [![](./img/바운스볼.jfif)](https://www.youtube.com/watch?v=T-sgfcc1xU0&list=PLDYpC4AeHWdgWcLMTwTfFU7lkNLH1MqQh)
+  [![](./img/대표이미지.jfif)]<video width="100%" height="100%" controls="controls">
+  <source src="./video/6주차.mp4" type="video/mp4">
 
 <br><br>
 
 # [대표 이미지] <a name='4'></a>
 
-![그림](./img/알트에프포.png)
+![그림](./img/대표이미지.png)
 
 <br><br>
 
