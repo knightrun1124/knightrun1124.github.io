@@ -136,7 +136,7 @@
 |2|장애물|<img src="./img/barrier.png" width="500">|
 |3|스테이지|<img src="./img/stage.png" height="300">|
 |4|버튼|<img src="./img/button.png" height="300">|
-|5|점수오브젝트|<img src="./img/score.jfif" height="300">|
+|5|점수오브젝트|<img src="./img/점수.png" height="300">|
 |6|도착점|<img src="./img/goal.jpg" height="300">|
 
 # b. 파라미터 <a name='파라미터'></a>
