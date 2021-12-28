@@ -56,9 +56,10 @@
 # [관련 이미지 & 동영상] <a name='3'></a>
 
 - 이미지  
-  <img src="./img/대표이미지.jfif">
+  <img src="./img/대표이미지.png">
 - 동영상
-  [![](./img/대표이미지.jfif)]<video width="100%" height="100%" controls="controls">
+  [![](./img/대표이미지.png)]
+  <video width="100%" height="100%" controls="controls">
   <source src="./video/6주차.mp4" type="video/mp4">
 
 <br><br>
@@ -132,11 +133,11 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./img/플레이어.png" height = "300" width="500">|
+|1|플레이어|<img src="./img/플레이어.PNG" height = "300" width="500">|
 |2|장애물|<img src="./img/barrier.png" width="500">|
 |3|스테이지|<img src="./img/stage.png" height="300">|
 |4|버튼|<img src="./img/button.png" height="300">|
-|5|점수오브젝트|<img src="./img/점수.png" height="300">|
+|5|점수오브젝트|<img src="./img/점수.PNG" height="300">|
 |6|도착점|<img src="./img/goal.jpg" height="300">|
 
 # b. 파라미터 <a name='파라미터'></a>
