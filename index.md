@@ -56,7 +56,7 @@
 
 
 - 동영상
- <a href="https://youtu.be/jrcrMw55IO4"><img src="/img/youtube_img.png" alt="">
+ <a href="https://www.youtube.com/watch?v=yHNjK3oQ5U4"><img src="/img/youtube_img.png" alt="">
  <img src="/img/폴가이즈.jpg" alt>
   </a>
 
