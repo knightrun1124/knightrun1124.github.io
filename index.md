@@ -51,9 +51,13 @@
 # [관련 이미지 & 동영상] <a name='3'></a>
 
 - 이미지  
-  <img src="./img/대표이미지.png">
+  <img src="./img/바운스볼.png">
+  <img src="./img/알트에프포.png">
+  <img src="./img/폴가이즈.jpg">
+
+
 - 동영상
-  [[](./img/대표이미지.png)]
+  [[](./img/폴가이즈.png)]
   <iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -67,7 +71,7 @@
 
 # [컨셉 & 대표이미지 기반 작품묘사] <a name='5'></a>
 
-> ### 대표이미지 기반 :   <img src="./img/게임설명.png">
+> ### 대표이미지 기반 :   <img src="./img/.png">
 
 > ### 컨셉 기반: 
 >분노유발: 원하는대로 게임이 잘 플레이가 되지않아 화가 나지만 플레이어를 조작해 골인지점까지 도달하는게 목표인게임
@@ -124,10 +128,10 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./img/플레이어.PNG" height = "300" width="500">|
-|2|장애물|<img src="./img/barrier.png" width="500">|
+|1|플레이어|<img src="./img/Player.PNG" height = "300" width="500">|
+|2|장애물|<img src="./img/trapdoor.jpg" width="500">|
 |3|스테이지|<img src="./img/stage.png" height="300">|
-|4|버튼|<img src="./img/button.png" height="300">|
+|4|버튼|<img src="./img/button.jpg" height="300">|
 |5|점수오브젝트|<img src="./img/점수.PNG" height="300">|
 |6|도착점|<img src="./img/goal.jpg" height="300">|
 
