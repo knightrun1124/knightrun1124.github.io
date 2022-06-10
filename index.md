@@ -56,9 +56,8 @@
 
 
 - 동영상
-  [[](./img/폴가이즈.png)]
-  <iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ <a href="https://youtu.be/jrcrMw55IO4"><img src="/img/youtube_img.png" alt=""></a>
+ <img src="/img/폴가이즈.jpg">
 
 <br><br>
 
