@@ -53,7 +53,7 @@
 - 이미지  
   <img src="./img/대표이미지.png">
 - 동영상
-  [![](./img/대표이미지.png)]
+  [](./img/대표이미지.png)]
   <iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
